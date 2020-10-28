@@ -13,10 +13,16 @@ Right Contorl - Refresh
 ---
 
 # How to run
-Download it or use git
+1. Download it or use git
 ``` Bash
 git clone https://github.com/SGlombicki/MicroBit-A-B-Key-mapped
 ```
+2. Install dependencies
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run it
 ``` Bash
 Python main.py
 ```
