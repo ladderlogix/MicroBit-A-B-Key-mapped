@@ -3,9 +3,9 @@ This project contains the code i used to make the A and B key mapped to up arrow
 
 # Mappings
 
-Up arrow - A
-Down Arrow - B
-Space - Pause
+Up arrow - A /n
+Down Arrow - B /n
+Space - Pause /n
 Right Contorl - Refresh
 
 # Waring
