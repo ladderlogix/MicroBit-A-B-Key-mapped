@@ -16,6 +16,8 @@ Right Contorl - Refresh
 Download it or use git
 ``` Bash
 git clone https://github.com/SGlombicki/MicroBit-A-B-Key-mapped
+```
+``` Bash
 Python main.py
 ```
 
