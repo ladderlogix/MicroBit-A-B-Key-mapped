@@ -12,5 +12,9 @@ Space - Pause
 Right Contorl - Refresh
 ---
 
+# How to run
+Download it or use git
+'git clone https://github.com/SGlombicki/MicroBit-A-B-Key-mapped'
+
 # Waring
 The compiled file my be flaged as a virus by your anti-virus, Trust me it is not, anti-virus do not like complied code alot of time. If this scares you i have inculed the source code and you can compile it your self
