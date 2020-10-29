@@ -1,18 +1,25 @@
 # MicroBit-A-B-Key-mapped
-This project contains the code i used to make the A and B key mapped to up arrow and down arrow you can go in and change it if you wish. Main.py is the remaper and Moue.py is tells you what key was pressed. At the moment this only works on the tiny screen later i will make this work better and be better. Miniscreen is for the dev enviorment and has diffent key mappings a to a and b to b and up arrow to a and down arrow to b. It is the same thing for emulator but for my emulator on my website
+This is my program to map the a and b buttons on the microbit to keys on your keyboard.
 
-# Mappings
+# Mappings - Arrow
 
 Up arrow - A
 ---
 Down Arrow - B
 ---
-Space - Pause
----
-Right Contorl - Refresh
+Right Contorl - A + B
 ---
 
-# How to run
+# Mappings - Letters
+
+A arrow - A
+---
+B Arrow - B
+---
+C - C
+---
+
+# How to run/edit
 1. Download it or use git
 ``` Bash
 git clone https://github.com/SGlombicki/MicroBit-A-B-Key-mapped
@@ -24,8 +31,7 @@ pip install -r requirements.txt
 ```
 3. Run it
 ``` Bash
-Python main.py
+Python Setup.py
 ```
-
 # Waring
 The compiled file my be flaged as a virus by your anti-virus, Trust me it is not, anti-virus do not like complied code alot of time. If this scares you i have inculed the source code and you can compile it your self
