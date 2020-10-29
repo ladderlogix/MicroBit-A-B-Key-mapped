@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# MicroBit-A-B-Key-mapped
+This is my program to map the a and b buttons on the microbit to keys on your keyboard.
 
-You can use the [editor on GitHub](https://github.com/SGlombicki/MicroBit-A-B-Key-mapped/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Mappings - Arrow
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Up arrow - A
+---
+Down Arrow - B
+---
+Right Contorl - A + B
+---
 
-### Markdown
+# Mappings - Letters
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A arrow - A
+---
+B Arrow - B
+---
+C - C
+---
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# How to run/edit
+1. Download it or use git
+``` Bash
+git clone https://github.com/SGlombicki/MicroBit-A-B-Key-mapped
 ```
+2. Install dependencies
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SGlombicki/MicroBit-A-B-Key-mapped/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```bash
+pip install -r requirements.txt
+```
+3. Run it
+``` Bash
+Python Setup.py
+```
+# Waring
+The compiled file my be flaged as a virus by your anti-virus, Trust me it is not, anti-virus do not like complied code alot of time. If this scares you i have inculed the source code and you can compile it your self
