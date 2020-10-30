@@ -1,5 +1,5 @@
 # MicroBit-A-B-Key-mapped
-This is my program to map the a and b buttons on the microbit to keys on your keyboard.
+This is my program to map the a and b buttons on the microbit to keys on your keyboard. I will evently get around to fixing this
 
 # Mappings - Arrow
 
